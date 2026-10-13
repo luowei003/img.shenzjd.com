@@ -1,0 +1,23 @@
+{
+  "owner": "luowei003",
+  "repo": "img.shenzjd.com",
+  "branch": "main",
+  "directory": "",
+  "compressionEnabled": false,
+  "compressionQuality": 80,
+  "watermarkEnabled": false,
+  "watermarkText": "by img.shenzjd.com",
+  "watermarkColor": "#ffffff",
+  "watermarkSize": 24,
+  "watermarkPosition": "bottom-right",
+  "theme": "system",
+  "cdn": "jsdmirror",
+  "useRaw": true,
+  "copyFormat": "url",
+  "autoCopyAfterUpload": true,
+  "useOriginalFileName": false,
+  "convertToWebp": false,
+  "duplicateStrategy": "rename",
+  "configPath": ".img.shenzjd.com/config.json",
+  "autoSync": true
+}
